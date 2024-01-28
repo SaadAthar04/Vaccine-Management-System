@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 ## Vaccine-Management-System | Introduction
 
-Welcome to Vaccination Management System.IT is a simple and user-friendly system designed to make getting vaccinated
+Welcome to Vaccine Management System.IT is a simple and user-friendly system designed to make getting vaccinated
 easy and efficient.With our system, you can schedule your vaccination appointments hassle-free, check for available
 slots, and stay updated on vaccine information. Our platform ensures a smooth process from booking to receiving
 your vaccine, providing you with the necessary details for a stress-free experience.Say goodbye to long queues
